@@ -9,11 +9,11 @@ Neste repositório trago todos os meus aprendizados neste Bootcamp.
 
 Aprender sobre Engenharia e análise de dados com Python e todas as Hard Skills e SoftSkills necessárias para trabalhar nesta Stack.
 
-## Stack utilizada
+## Linguagens utilizadas
 
-**Front-end:** React, Redux, TailwindCSS
+**Front-end:** Jupyter Notebook
 
-**Back-end:** Node, Express
+**Back-end:** python
 
 
 ## Documentação
@@ -34,5 +34,5 @@ Aprender sobre Engenharia e análise de dados com Python e todas as Hard Skills 
 
 ## Screenshots
 
-![App Screenshot](https://via.placeholder.com/468x300?text=App+Screenshot+Here)
+![App Screenshot](desafio2.png)
 
