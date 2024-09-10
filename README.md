@@ -1,11 +1,10 @@
 
-# NTT-DATA e DIO 
+# NTT-DATA e DIO
 
 Bootcamp da NTT-DATA e DIO INNOVATION ONE de Engenharia de dados com Python.
 Neste repositório trago todos os meus aprendizados neste Bootcamp.
 
 ## OBJETIVO
-
 
 Aprender sobre Engenharia e análise de dados com Python e todas as Hard Skills e SoftSkills necessárias para trabalhar nesta Stack.
 
@@ -15,24 +14,18 @@ Aprender sobre Engenharia e análise de dados com Python e todas as Hard Skills 
 
 **Back-end:** python
 
-
 ## Documentação
 
-[Documentação](https://link-da-documentação)
+[Documentação - Bootcamp Dio | NTT DATA](https://github.com/clenio77/NTT-DATA)
 
+![Logo](dio_makethechange_logo.jpeg)
 
-![Logo](https://dev-to-uploads.s3.amazonaws.com/uploads/articles/th5xamgrr6se0x5ro4g6.png)
-
-![Logo](https://dev-to-uploads.s3.amazonaws.com/uploads/articles/th5xamgrr6se0x5ro4g6.png)
-
-
+![Logo](ntt_data_europe_latam_logo.jpeg)
 
 ## Licença
 
 [MIT](https://choosealicense.com/licenses/mit/)
 
-
 ## Screenshots
 
 ![App Screenshot](desafio2.png)
-
