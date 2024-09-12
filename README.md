@@ -22,11 +22,6 @@ Aprender sobre Engenharia e análise de dados com Python e todas as Hard Skills 
 
 ![Logo](ntt_data_europe_latam_logo.jpeg)
 
-<div style="display: flex; justify-content: space-around;">
-  <img src="dio_makethechange_logo.jpeg" alt="Imagem 1" width="45%">
-  <img src="ntt_data_europe_latam_logo.jpeg" alt="Imagem 2" width="35%">
-</div>
-
 
 ## Licença
 
