@@ -1,0 +1,46 @@
+Metadata-Version: 2.1
+Name: pdf_txt_to_mp3
+Version: 0.1.0
+Summary: Um pacote para converter documentos PDF e TXT em arquivos MP3
+Home-page: https://github.com/seuusuario/pdf_txt_to_mp3
+Author: Seu Nome
+Author-email: seu.email@example.com
+Classifier: Programming Language :: Python :: 3
+Classifier: License :: OSI Approved :: MIT License
+Classifier: Operating System :: OS Independent
+Requires-Python: >=3.6
+Description-Content-Type: text/markdown
+Requires-Dist: PyPDF2
+Requires-Dist: pyttsx3
+Requires-Dist: gtts
+
+# pdf_txt_to_mp3
+
+Description. 
+The package package_name is used to:
+	A Python package to convert PDF and TXT documents to MP3 files.	
+
+## Installation
+
+Use the package manager [pip](https://pip.pypa.io/en/stable/) to install package_name
+
+```bash
+pip install pdf_txt_to_mp3
+```
+
+## Usage
+
+```python
+from package_name.module1_name import file1_name
+file1_name.my_function()
+```
+from pdf_txt_to_mp3.converter import convert_file_to_mp3
+
+convert_file_to_mp3('documento.pdf', 'saida.mp3', use_gtts=True)
+
+
+## Author
+Clenio Moura
+
+## License
+[MIT](https://choosealicense.com/licenses/mit/)

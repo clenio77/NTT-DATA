@@ -1,0 +1,2 @@
+[console_scripts]
+pdf_txt_to_mp3 = pdf_txt_to_mp3.converter:convert_file_to_mp3

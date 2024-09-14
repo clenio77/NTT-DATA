@@ -1,0 +1,13 @@
+README.md
+setup.py
+pdf_txt_to_mp3/__init__.py
+pdf_txt_to_mp3.egg-info/PKG-INFO
+pdf_txt_to_mp3.egg-info/SOURCES.txt
+pdf_txt_to_mp3.egg-info/dependency_links.txt
+pdf_txt_to_mp3.egg-info/entry_points.txt
+pdf_txt_to_mp3.egg-info/requires.txt
+pdf_txt_to_mp3.egg-info/top_level.txt
+pdf_txt_to_mp3/pdf_txt_to_mp3/__init__.py
+pdf_txt_to_mp3/pdf_txt_to_mp3/converter.py
+pdf_txt_to_mp3/tests/__init__.py
+pdf_txt_to_mp3/tests/test_converter.py
